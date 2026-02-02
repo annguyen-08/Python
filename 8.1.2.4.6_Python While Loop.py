@@ -1,7 +1,7 @@
 def main ():
     x = 0
     print ('Starting while loop - counting to 10')
-    while (x <= 10):
+    while (x <= 9):
         print (x)
         x += 1
     print ('End the counting program')
