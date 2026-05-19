@@ -772,6 +772,8 @@ if __name__ == '__main__':
         led.on();  sleep(0.2)
         led.off(); sleep(0.2)
 
+
+  ## minh's code btw
     try:
         app.run(host='0.0.0.0', port=5000, debug=False, threaded=True)
     finally:
